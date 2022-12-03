@@ -1,6 +1,6 @@
-# RyseInventory 1.8-1.19 ![](https://i.imgur.com/BS3gwxL.png)
+# RyseInventory Examples ![](https://i.imgur.com/BS3gwxL.png)
 
-Welcome to the RyseInventory samples. Before you start looking at the possible build tools, please know that these are not 100% solutions. Thank you for your interest!
+Welcome to the RyseInventory examples. Before you start looking at the possible build tools, please know that these are not 100% solutions. Thank you for your interest!
 
 # Quick search
 
