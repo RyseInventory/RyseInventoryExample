@@ -6,6 +6,7 @@ plugins {
 group 'io.github.rysefoxx.example'
 version '1.0-SNAPSHOT'
 description 'This build.gradle shows a possible structure for RyseInventory. Yours will differ for sure!'
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
 repositories {
     mavenCentral()
@@ -19,3 +20,4 @@ dependencies {
 shadowJar {
     mergeServiceFiles()
 }
+

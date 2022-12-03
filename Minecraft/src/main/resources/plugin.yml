@@ -1,0 +1,7 @@
+name: RyseInventoryExample
+version: '${project.version}'
+main: io.github.rysefoxx.example.ExamplePlugin
+authors: [ Rysefoxx ]
+api-version: 1.13
+commands:
+  inventory:
